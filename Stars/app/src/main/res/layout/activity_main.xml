@@ -13,9 +13,10 @@
 
         <RatingBar
             android:id="@+id/star_rating"
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="0.1"
@@ -23,9 +24,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="0.2"
@@ -33,9 +35,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="0.3"
@@ -43,9 +46,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="0.4"
@@ -53,9 +57,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="0.5"
@@ -63,9 +68,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="0.6"
@@ -73,9 +79,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="0.7"
@@ -83,9 +90,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="0.8"
@@ -93,9 +101,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="0.9"
@@ -103,9 +112,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="1"
@@ -113,9 +123,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="2"
@@ -123,9 +134,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="3"
@@ -133,9 +145,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="4"
@@ -143,9 +156,10 @@
             android:layout_margin="8dp"/>
 
         <RatingBar
-            style="@style/CustomRatingBarStyle"
+            style="@style/Custom_rating_bar_extended"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:progressTint="@color/colorPrimary"
             android:isIndicator="true"
             android:numStars="5"
             android:rating="5"
